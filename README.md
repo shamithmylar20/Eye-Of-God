@@ -1,6 +1,6 @@
-# 🕵️‍♂️ Bharatiya Rescue:Missing Person Detection System! 📸
-<p>Bharatiya Rescue is an innovative project aimed at leveraging cutting-edge technology to help reunite missing individuals with their loved ones.
-  🤝 Our user-friendly system, built using Django, HTML, CSS, JavaScript, OpenCV, and the facerecognition library, 
+# 🕵️‍♂️ Eye Of God:Missing Person Detection using AI! 📸
+<p>Eye Of God is an innovative project aimed at leveraging cutting-edge technology to help reunite missing individuals with their loved ones.
+  🤝 Our user-friendly system, built using Django, HTML, CSS, JavaScript, OpenCV, and the facerecognition library,
   combines a smooth UI with robust functionality to ensure an efficient and seamless experience for all users. 🌐</p>
   <b>📋 Here's how it works:</b>
   <ul>
@@ -10,12 +10,13 @@
     <li>Admins have the power to remove entries when the missing person is found, maintaining an up-to-date and efficient system.</li>
   </ul>
   <b>Future Enhancements</b>
-  <p>The potential for enhancing Bharatiya Rescue is vast. Integration with advanced AI algorithms and machine learning models could improve face recognition accuracy and enhance the efficiency of locating missing persons. Additionally, leveraging geospatial technology could enable real-time tracking and provide a comprehensive view of the missing person's movements. Integration with social media platforms and public alert systems could further amplify the reach and effectiveness of the alerts, facilitating a broader community response in finding missing persons. The project's future goals include establishing partnerships with law enforcement agencies and collaborating with technology innovators to continuously improve and expand the system's capabilities, ultimately contributing to a safer and more secure society. 🌟</p>
+  <p>The potential for enhancing Eye Of God is vast. Integration with advanced AI algorithms and machine learning models could improve face recognition accuracy and enhance the efficiency of locating missing persons. Additionally, leveraging geospatial technology could enable real-time tracking and provide a comprehensive view of the missing person's movements. Integration with social media platforms and public alert systems could further amplify the reach and effectiveness of the alerts, facilitating a broader community response in finding missing persons. The project's future goals include establishing partnerships with law enforcement agencies and collaborating with technology innovators to continuously improve and expand the system's capabilities, ultimately contributing to a safer and more secure society. 🌟</p>
 
 Other Developers
 <ul>
-  <li>Akash Mohanty</li>
-  <li>Sarin Sahu</li>
+  <li>Md. Faraaz Ahmed</li>
+  <li>Nishan Rupeh</li>
+  <li>Manoj M</li>
 </ul>
 
 ## Some Screenshorts:
@@ -24,7 +25,7 @@ Other Developers
   <li>Report Missing Case <br>
       <img src = "https://github.com/thegeek36/Missing-Person-Detection-System/assets/76440306/5ecd1289-d542-4eb2-b567-46fca0b60d18"></img>
       </li>
-  <li> Face Detection <br> 
+  <li> Face Detection <br>
       <img src = "https://github.com/thegeek36/Missing-Person-Detection-System/assets/76440306/86b9e088-d699-4ab4-a053-aa6e328ddf1d"></img>>
     </li>
   <li> Mail <BR>
